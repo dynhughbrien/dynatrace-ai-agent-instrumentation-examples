@@ -1,6 +1,6 @@
 # Microsoft Copilot Studio 
 
-SaaS System that does not seem to provide 
+SaaS System that does not seem to provide performance exportable  metrics 
 
 This is how you monitor:
 👉 https://copilotstudio.microsoft.com/ (the actual URL experience)
